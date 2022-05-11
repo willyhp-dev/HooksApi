@@ -1,0 +1,20 @@
+.btn {
+  width: 100px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid;
+}
+
+.btn-infoh {
+  background-color: gray;
+}
+
+.btn-infoh:hover {
+  background-color: cyan;
+  color: black;
+}
+
+.title {
+  color: red;
+}
+/*# sourceMappingURL=index.css.map */

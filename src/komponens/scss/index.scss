@@ -1,0 +1,22 @@
+$gray :gray;
+$cyan :cyan;
+$black:black;
+.btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: 1px solid;
+   
+}
+.btn-infoh{
+    background-color:$gray;
+    &:hover{
+        background-color:$cyan;
+        color:$black;
+    }
+}
+.title{
+    color: red;
+}
+
+
